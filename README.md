@@ -22,20 +22,17 @@ Este é um projeto de estudo para um CRUD de lista de tarefas usando Java 21, Sp
 ### Passos
 
 1. Clone o repositório para o seu ambiente local:
-
-```bash
 git clone https://github.com/seu-usuario/crud-lista-tarefas.git
 Navegue até o diretório do projeto:
-
 cd crud-lista-tarefas
-Compile o projeto usando Maven:
 
+2 - Compile o projeto usando Maven:
 mvn clean package
-Execute a aplicação:
+
+3 - Execute a aplicação:
 java -jar target/crud-lista-tarefas.jar
+
 Abra um navegador da web e acesse a seguinte URL:
 http://localhost:8080
-Isso abrirá a aplicação CRUD de lista de tarefas no seu navegador.
 
-Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou relatar problemas.
