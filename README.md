@@ -21,7 +21,7 @@ Este é um projeto de estudo para um CRUD de lista de tarefas usando Java 21, Sp
 
 ### Passos
 
-1. Clone o repositório para o seu ambiente local:
+1 - Clone o repositório para o seu ambiente local:
 git clone https://github.com/seu-usuario/crud-lista-tarefas.git
 Navegue até o diretório do projeto:
 cd crud-lista-tarefas
